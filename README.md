@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Belen Vera . 
+ 
 -  🌍  Buenos Aires, Arg. 
 - 🌱 Siempre estoy aprendiendo. 
 - 💞️ El único límite que existe es el que cada uno se propone.
@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hola 👋, soy belén vera</h1>
-<h3 align="center">Una Desarrolladora Full Stack apasionada de todo el mundo</h3>
+<h3 align="center">Una Desarrolladora Full Stack apasionada en todo el mundo</h3>
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
